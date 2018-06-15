@@ -1,0 +1,4 @@
+django
+django-tasypie
+django-cors-headers
+django-pytest
