@@ -8,7 +8,7 @@
  
  via HTTPS
  
-     git clone https://github.com/sanchay/todo_backend.git
+     git clone https://github.com/SanchayPahalwani/todo_backend.git
 
  
 ### 3 Python environment setup
